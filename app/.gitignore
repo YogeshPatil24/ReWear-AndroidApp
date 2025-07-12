@@ -1,0 +1,44 @@
+/build
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (contains SDK path)
+local.properties
+
+# IDE settings
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Android Studio captures
+captures/
+
+# Generated files
+.generated/
+
+# Kotlin specific
+*.kotlin_module
+
+# Sign-in keys (if used)
+*.jks
+
+# Crashlytics & Firebase
+fabric.properties
+crashlytics-build.properties
+
+# IntelliJ
+out/
+
+# NDK
+.cxx/
+
+# Others
+*.keystore
